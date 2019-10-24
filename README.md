@@ -1,8 +1,9 @@
-# IntelliJ Idea Java Environment for TDD
+# Fizz-Buzz assignment
 
-Simple IntelliJ Idea Java environment for Test Driven Development. Set up as described in https://online-training.jbrains.ca/courses/wbitdd-01/lectures/133270.
+1. Complete the [Fizz-Buzz Kata](http://wiki.c2.com/?FizzBuzzTest).
+1. Implement the additional rules for multiples of 7:
+ * For multiples of 7 print "Bang"
+ * For multiples of 3 and 7 print "FizzBang"
+ * For multiples of 5 and 7 print "BuzzBang"
+ * For multiples of 3, 5 and 7 print "FizzBuzzBang" 
 
-The environment uses:
-- Java 11
-- JUnit 5
-- Hamcrest 2.1
